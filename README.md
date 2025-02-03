@@ -1,2 +1,19 @@
-# First-1000-numbers-if-FizzBuzz
-This piece of program prints first 1000 numbers of FizzBuzz. If any number is divisible by 3, it prints "Fizz", divisible by 5, "Buzz", divisible by 3 &amp; 5, "FizzBuzz"
+# Instructions  
+Write a program that prints the first 1000 numbers of FizzBuzz. Output should look like this:
+
+```
+1
+2
+Fizz
+4
+Buzz
+Fizz
+7
+8
+Fizz
+```
+
+**However, it should continue on up to 1000.**
+
+
+**Remember: case matters!** This project will be automatically graded, and computers are very literal!
